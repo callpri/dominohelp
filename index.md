@@ -23,7 +23,7 @@ We need your help to improve the content of this site, to add the missing people
 
 No coding is necessary -- just a basic understanding of:
 * [Markdown](https://www.markdownguide.org/basic-syntax/).  Specifically, this variation of it: [Kramdown](https://kramdown.gettalong.org/quickref.html)
-* Because column alignment is important in Markdown, a good editor such as [CotEditor for Mac](https://itunes.apple.com/us/app/coteditor/id1024640650?mt=12) -- though really any Courier font editor will do, including [NotePad++ for Windows](https://notepad-plus-plus.org)
+* Because column alignment is important in Markdown, a good editor such as [CotEditor for Mac](https://itunes.apple.com/us/app/coteditor/id1024640650?mt=12) -- though really any Courier font editor will do, including [Codelobster editor](https://codelobster.com) or [NotePad++ for Windows](https://notepad-plus-plus.org)
 * [GitHub Hello World](https://guides.github.com/activities/hello-world/) to edit your 'forked' version of the site and then issue a 'pull request' for us to merge in your changes.
 * [Documentation theme](https://idratherbewriting.com/documentation-theme-jekyll/) for [Jekyll](https://jekyllrb.com).  This was chosen to enable version control / change tracking and low editing overhead, while also offering a responsive design.
 
